@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Order Drinks</string>
+    <string name="home">Trang chủ</string>
+    <string name="favourite">Yêu thích</string>
+    <string name="cart">Giỏ hàng</string>
+    <string name="profile">Tài khoản</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="phobien">Phổ biến</string>
+    <string name="welcome_order_drink">Welcome Order Drink</string>
+    <string name="login">Đăng nhập</string>
+    <string name="regester">Đăng ký</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

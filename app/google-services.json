@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "579599637291",
+    "project_id": "orderdrinks-a0b52",
+    "storage_bucket": "orderdrinks-a0b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579599637291:android:b87f27a48d62668f3cc36e",
+        "android_client_info": {
+          "package_name": "com.android45.orderdrinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579599637291-o8fu2r80nv2qak7stpithuabkvs94ul6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android45.orderdrinks",
+            "certificate_hash": "61249e7b81e43efceabdce7991bdc524914b4c87"
+          }
+        },
+        {
+          "client_id": "579599637291-mskhh49l78kn4rkhdanbv6pc89qeg709.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd30PXOCxXrBRBWh1DkQ7xje_2pPyjdvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579599637291-mskhh49l78kn4rkhdanbv6pc89qeg709.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
